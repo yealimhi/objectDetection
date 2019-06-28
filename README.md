@@ -1,3 +1,2 @@
 # objectDetection
-비트 영상인식 
-##c
+비트 영상인식
